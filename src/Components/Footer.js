@@ -4,6 +4,7 @@ function Footer() {
     return (
         <div>
             <h1>Footer</h1>
+            <h3>Copyright details</h3>
         </div>
     )
 }
